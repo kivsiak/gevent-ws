@@ -1,0 +1,11 @@
+Beaker==1.6.3
+Cython==0.15.1
+gevent==0.13.7
+gevent-websocket==0.3.4
+gevent-zeromq==0.2.2
+greenlet==0.3.4
+pymongo==2.1.1
+pyzmq==2.1.11
+websocket-client==0.7.0
+ws4py==0.2.1
+wsgiref==0.1.2
