@@ -1,1 +1,3 @@
 Experement for gevent websocket zmq clastering
+
+depenencies: gevent, gevent-zmq, geventwebsocket, beaker
